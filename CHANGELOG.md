@@ -1,5 +1,9 @@
 # Mackup Changelog
 
+## platform/windows
+
+- Add basic Windows support; Elevated privileges for symlink needed
+
 ## WIP
 
 - Add support for iTerm (via @Sbastien)
